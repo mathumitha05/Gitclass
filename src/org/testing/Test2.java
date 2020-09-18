@@ -23,6 +23,9 @@ public class Test2 {
 			
 			System.out.println("DownCasting :" + b);
 			
+			int c =10;
+			System.out.println( c);
+			
 		}
 
 	
